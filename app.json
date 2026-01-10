@@ -8,32 +8,32 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "20567114",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "8a5b92106e45fc6637a65a67df060a65",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "Bot token from @BotFather",
-      "value": "",
+      "value": "8090907579:AAHC6yR05d7IRNpfbkWtKOLU78O2rK-EQ_s",
       "required": true
     },
     "MONGO_DB": {
       "description": "MongoDB connection URL (https://cloud.mongodb.com)",
-      "value": "",
+      "value": "mongodb+srv://ifsabhi64:ifsabhi64@cluster0.hgnvwqi.mongodb.net/?appName=Cluster0",
       "required": true
     },
     "OWNER_ID": {
       "description": "User ID(s) to be set as bot owner(s), separated by space (e.g., 1234 5678)",
-      "value": "",
+      "value": "8036182138",
       "required": true
     },
     "DB_NAME": {
       "description": "Database name for MongoDB (default: telegram_downloader)",
-      "value": "telegram_downloader",
+      "value": "Cluster0",
       "required": false
     },
     "STRING": {
@@ -43,12 +43,12 @@
     },
     "FORCE_SUB": {
       "description": "Channel ID (with -100 prefix) for forced subscription",
-      "value": "-10012345567",
+      "value": "-1002924926235",
       "required": true
     },
     "LOG_GROUP": {
       "description": "Log channel/group ID (with -100 prefix) where the bot will send logs",
-      "value": "-1001234456",
+      "value": "-1002924926235",
       "required": true
     },
     "MASTER_KEY": {
@@ -98,3 +98,4 @@
   ],
   "stack": "container"
 }
+
