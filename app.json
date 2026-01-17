@@ -18,7 +18,7 @@
     },
     "BOT_TOKEN": {
       "description": "Bot token from @BotFather",
-      "value": "8090907579:AAHC6yR05d7IRNpfbkWtKOLU78O2rK-EQ_s",
+      "value": "8090907579:AAFyrnYtvZCiaINx0W-fgoRjEU32_6qt90E",
       "required": true
     },
     "MONGO_DB": {
@@ -98,4 +98,5 @@
   ],
   "stack": "container"
 }
+
 
