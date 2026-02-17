@@ -22,12 +22,12 @@ YTUB_COOKIES = """
 # ─── BOT / DATABASE CONFIG ──────────────────────────────────────────────────────
 API_ID       = os.getenv("API_ID", "20567114")
 API_HASH     = os.getenv("API_HASH", "8a5b92106e45fc6637a65a67df060a65")
-BOT_TOKEN    = os.getenv("BOT_TOKEN", "8090907579:AAFyrnYtvZCiaINx0W-fgoRjEU32_6qt90E")
+BOT_TOKEN    = os.getenv("BOT_TOKEN", "8151201524:AAGwEG_3ZjsuJpV19wKiJQiOshOisZ3-yDU")
 MONGO_DB     = os.getenv("MONGO_DB", "mongodb+srv://ifsabhi64:ifsabhi64@cluster0.hgnvwqi.mongodb.net/?appName=Cluster0")
 DB_NAME      = os.getenv("DB_NAME", "Cluster0")
 
 # ─── OWNER / CONTROL SETTINGS ───────────────────────────────────────────────────
-OWNER_ID     = list(map(int, os.getenv("OWNER_ID", "8036182138").split()))  # space-separated list
+OWNER_ID     = list(map(int, os.getenv("OWNER_ID", "8193294110").split()))  # space-separated list
 STRING       = os.getenv("STRING", None)  # optional session string
 LOG_GROUP    = int(os.getenv("LOG_GROUP", "-1002924926235"))
 FORCE_SUB    = int(os.getenv("FORCE_SUB", "-1002924926235"))
@@ -76,5 +76,6 @@ P0 = {
 # ════════════════════════════════════════════════════════════════════════════════
 # ░ DEVGAGAN
 # ════════════════════════════════════════════════════════════════════════════════
+
 
 
