@@ -18,7 +18,7 @@
     },
     "BOT_TOKEN": {
       "description": "Bot token from @BotFather",
-      "value": "8090907579:AAFyrnYtvZCiaINx0W-fgoRjEU32_6qt90E",
+      "value": "8151201524:AAGwEG_3ZjsuJpV19wKiJQiOshOisZ3-yDU",
       "required": true
     },
     "MONGO_DB": {
@@ -28,7 +28,7 @@
     },
     "OWNER_ID": {
       "description": "User ID(s) to be set as bot owner(s), separated by space (e.g., 1234 5678)",
-      "value": "8036182138",
+      "value": "8193294110",
       "required": true
     },
     "DB_NAME": {
@@ -43,8 +43,8 @@
     },
     "FORCE_SUB": {
       "description": "Channel ID (with -100 prefix) for forced subscription",
-      "value": "-1002924926235",
-      "required": true
+      "value": "",
+      "required": false
     },
     "LOG_GROUP": {
       "description": "Log channel/group ID (with -100 prefix) where the bot will send logs",
@@ -98,5 +98,6 @@
   ],
   "stack": "container"
 }
+
 
 
